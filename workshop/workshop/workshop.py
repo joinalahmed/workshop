@@ -67,7 +67,12 @@ B = "world"
 C = 2017
 print(A + B + " " + str(C))
 
+# print long strings 
+print('''it is a 
+very long string ''')
 
+# row string 
+print(r'C\programs\s.py')
 
 
 
