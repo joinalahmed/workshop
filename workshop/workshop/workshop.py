@@ -117,6 +117,32 @@ print(x)
 
 y = tuple('abc')
 
+# if statment 
+# indent no { or [
+# : to declare if 
+
+if 2 == (2/1):
+    print('yes')
+elif 3 == 4 :
+    print('gg')
+else :
+    print('else')
+
+x = 10
+while x > 5 :
+    x = x - 1
+    print(x)
+
+for i in range(1,5):
+    print(i)
+
+
+def func(a):
+    print(a)
+
+func('saeed')
+
+
 
 
 
