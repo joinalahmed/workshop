@@ -74,5 +74,52 @@ very long string ''')
 # row string 
 print(r'C\programs\s.py')
 
+# data structures
+# x(0) x(1) x(2)   x(-2) x(-1)
+# List & tuples
+l1 = ['saeed', 5]
+l2 = [l1 , '3']
+
+# common methods in data 
+A = 'Hello'
+print(A[0])
+print(A[-1])
+
+print(A[2:4])
+print(A[2:])
+print(A[:])
+
+
+B = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print(B[0:5:2])
+print(B[::-1])
+
+# len 
+# min
+# max
+# del 
+# list.append
+# list.count
+# list.extend
+# list.index('saeed')
+# list.insert(3,'s')
+# list.pop() != list.append
+# list.remove
+# list.reverse
+# list.sort()
+# y = sorted(x)
+# cmp(x,y)
+
+#tuple
+
+x = tuple([1,2,3]);
+print(x)
+
+y = tuple('abc')
+
+
+
+
+
 
 
