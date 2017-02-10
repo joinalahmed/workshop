@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d032bb96-aebd-45e0-a02c-c0b4e8888143</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>s2_thread.py</StartupFile>
+    <StartupFile>s2_opencv.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="S2.py" />
+    <Compile Include="s2_matplotlib.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="s2_opencv.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="s2_thread.py">
       <SubType>Code</SubType>
     </Compile>
