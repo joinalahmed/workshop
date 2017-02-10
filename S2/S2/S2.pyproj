@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d032bb96-aebd-45e0-a02c-c0b4e8888143</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>s2_opencv.py</StartupFile>
+    <StartupFile>s2_matplotlib.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
