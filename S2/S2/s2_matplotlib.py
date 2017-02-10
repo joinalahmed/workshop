@@ -37,7 +37,6 @@ plt.plot(t2, np.cos(2*np.pi*t2), 'r--')
 plt.show()
 
 
-
 plt.figure(1)                # the first figure
 plt.subplot(211)             # the first subplot in the first figure
 plt.plot([1, 2, 3])
